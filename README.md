@@ -1,2 +1,2 @@
 # repo-woman
-My first website from scratch
+My first website from scratch for Code Fellows
